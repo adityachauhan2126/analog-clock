@@ -1,0 +1,60 @@
+body{
+    background-image: url('wepik-2021925-141055.jpg');
+    background-repeat: no-repeat;
+    
+    background-size: 50vw 50vw;
+    background-position-x: 25vw;
+    padding: 0vw;
+    margin: 0vw;
+}
+
+
+#hour
+{
+    width:1vw;
+    height: 8vw;
+    background-color: black;
+    color: black;
+    border-radius: 2vw;
+    margin-top: 17vw;
+    margin-left: 50vw;
+    transform-origin: bottom;
+    
+   
+}
+#minute
+{
+    width:1vw;
+    height: 11vw;
+    background-color: black;
+    color: black;
+    border-radius: 2vw;
+    margin-top: -11vw;
+    margin-left: 50vw;
+    transform-origin: bottom;
+    
+}
+#second
+{
+    width:1vw;
+    height: 10vw;
+    background-color: black;
+    color: black;
+    border-radius: 2vw;
+    margin-top: -10.1vw;
+    margin-left: 49vw;
+    transform-origin: bottom;
+    
+}
+#center
+{
+    width:2.5vw;
+    height: 2.5vw;
+    background-color: black;
+    color: black;
+    border-radius: 2vw;
+    margin-top: -1.1vw;
+    margin-left: 49vw;
+    transform-origin: bottom;
+    
+}
